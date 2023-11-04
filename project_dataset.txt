@@ -1,0 +1,3 @@
+project file dataset:
+
+https://www.kaggle.com/datasets/edusanketdk/electronics/
